@@ -235,7 +235,7 @@ class GoogleEmbedding(BaseEmbeddings):
         else:
             raise NotImplementedError
 '''GoogleEmbedding test block   
-a = GoogleEmbedding(api_key="AIzaSyBEof-QOXUw_y-nhk5uTD2SHePZ2d8p7rk",is_api=True)
+a = GoogleEmbedding(api_key="your API key",is_api=True)
 b = a.get_embedding('這是一個測試用文本。向量化實驗')
 print(b)'''
 
