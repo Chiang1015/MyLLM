@@ -57,7 +57,7 @@ create mini-LLM from scrap
     * 使用 `git clone` 下載整個專案。
 
     ```bash
-    git clone [https://github.com/Chiang1015/MyLLM.git](https://github.com/Chiang1015/MyLLM.git)
+    git clone https://github.com/Chiang1015/MyLLM.git
     ```
 
 4.  **依序執行**
